@@ -1,4 +1,4 @@
-# QuickRide
+# FairRide
 
 Single HTML project ready for GitHub and Vercel deployment.
 
